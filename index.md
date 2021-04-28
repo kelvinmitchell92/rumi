@@ -1,5 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
+
 <head>
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,7 +7,7 @@
   <title>Document</title>
 </head>
 <body>
-  <a href="C:\Users\Sassy\IST411\LAR 303\2LAR303.html">
+  <a href="https://kelvinmitchell92.github.io/thestoryofmylife/2LAR303.html">
     <img src="boaty.png" alt="Our Boat" style="width:150px;height:150px; vertical-align: baseline;">
     </a>
 </body>
